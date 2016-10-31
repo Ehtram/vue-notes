@@ -1,6 +1,6 @@
 {
   "name": "super-notes",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A notes app project in which I will learn Vue.js",
   "author": "Quentin Laplanche <quentin.laplanche@outlook.fr>",
   "private": true,
