@@ -7,7 +7,7 @@
 
 <script>
 import Hello from './components/Hello';
-import from './components/test';
+import  from './components/test';
 export default {
   name: 'app',
   components: {
